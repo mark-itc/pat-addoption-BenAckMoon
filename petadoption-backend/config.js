@@ -1,0 +1,10 @@
+module.exports = {
+    // URL de la base de données
+
+    DATABASE_URL:'mongodb+srv://BenAck:BenAck@cluster0.dibarbe.mongodb.net/?retryWrites=true&w=majority',
+    MONGODB_URI:'mongodb+srv://BenAck:BenAck@cluster0.dibarbe.mongodb.net/?retryWrites=true&w=majority',
+    PORT:3001,
+    ACCESS_TOKEN_SECRET:123456,
+    secret: '123456',
+  };
+  
